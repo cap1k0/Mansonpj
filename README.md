@@ -1,6 +1,5 @@
 -Hi, I’m @cap !g0
--  I’m looking some colabrator to help develop blockchain based Dapp to improve  Teachers,students and learners skills in decentrized world.
-
+-  I’m looking for 0
 
 
 
